@@ -1,0 +1,25 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "description": "this nodejs ",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayk21/NodeJsPractice.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayk21/NodeJsPractice/issues"
+  },
+  "homepage": "https://github.com/vinayk21/NodeJsPractice#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
